@@ -1,5 +1,9 @@
 # TokenLedger
 
+> A compact ERC-20-style token ledger demonstrating balances, allowances, minting, and event-driven accounting.
+
+![TokenLedger](assets/logo.svg)
+
 An ERC-20-inspired Solidity token with balances, allowances, minting, and transfer events.
 
 The contract is intentionally compact for review. Before deployment, add access-control hardening, tests, fuzzing, and an audit.
